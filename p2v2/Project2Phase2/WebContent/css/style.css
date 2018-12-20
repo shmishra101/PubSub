@@ -1,0 +1,29 @@
+.jumbotron {
+  background-image: url("../images/homep.jpg");
+  background-size: cover;
+  color:red;
+}
+
+.jumbotron[type=hello] {
+  background-image: url("../images/createEvent.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.jumbotron[type=world] {
+  background-image: url("../images/subscriber.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.col {
+  width = 50%;
+}
+
+textarea.form-control {
+  height: 100%;
+}
+
+h1 {
+  color: red;
+}
